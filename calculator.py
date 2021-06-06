@@ -1,5 +1,5 @@
 # Objetivo: criar uma calculadora simples, em que seja possível fazer operações 
-# com mais de um valor e também com diferentes operações, usando a linguagem 
+# com mais de dois valor e também com diferentes operações, usando a linguagem 
 # python, no qual será executada pelo terminal
 
 
