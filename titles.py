@@ -1,4 +1,4 @@
-from cores import Cores
+from colors import Cores
 from time import sleep
 
 
