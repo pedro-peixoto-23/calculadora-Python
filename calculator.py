@@ -3,9 +3,9 @@
 # python, no qual será executada pelo terminal
 
 
-from cores import Cores
+from colors import Cores
 import os
-from titulos import tit, tabela_opcoes
+from titles import tit, tabela_opcoes
 from time import sleep
 
 
